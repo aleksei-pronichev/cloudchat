@@ -2,3 +2,4 @@
 *.iml
 /clientfiles/
 /serverfiles/
+*.db
